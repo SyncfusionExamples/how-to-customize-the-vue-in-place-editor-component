@@ -9,9 +9,10 @@ Documentation: https://ej2.syncfusion.com/vue/documentation/inplace-editor/confi
 
 ## Project pre-requisites
 Make sure that your machine has the following setup before starting to work on this project.
+
 Visual Studio Code   
 Node.js 
-Vue 2.6+
+Vue
 
 ## How to run this application?
 To run this application, you need to first clone the how-to-customize-the-vue-in-place-editor-component repository and then navigate to its appropriate path where it has been located in your system.
